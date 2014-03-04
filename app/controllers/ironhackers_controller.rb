@@ -1,0 +1,2 @@
+class IronhackersController < ApplicationController
+end
